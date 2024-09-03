@@ -60,10 +60,10 @@ The main menu will then be displayed:
 0. Exit
 ```
 
-a. Option 1: Displays the current seating arrangement. Available seats are marked with 'S', and sold seats are marked with 'B'.
-b. Option 2: Allows you to buy a ticket by selecting a specific row and seat number. The ticket price is determined by the row number.
-c. Option 3: Displays the cinema statistics, such as the number of purchased tickets, the percentage of occupancy, current income, and potential total income.
-d. Option 0: Exits the application.
+a. Option 1: Displays the current seating arrangement. Available seats are marked with 'S', and sold seats are marked with 'B'.<br>
+b. Option 2: Allows you to buy a ticket by selecting a specific row and seat number. The ticket price is determined by the row number.<br>
+c. Option 3: Displays the cinema statistics, such as the number of purchased tickets, the percentage of occupancy, current income, and potential total income.<br>
+d. Option 0: Exits the application.<br>
 
 ## Example
 
