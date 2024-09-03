@@ -46,9 +46,9 @@ After running the program, you will be prompted to enter the number of rows and 
 
 ```
 Enter the number of rows (1-9):
-5
+
 Enter the number of seats in each row (1-9):
-6
+
 ```
 
 The main menu will then be displayed:
