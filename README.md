@@ -29,18 +29,18 @@ The project consists of the following main components:
    ```
 
 2. ```bash
-   cd cinema-room-manager
+   cd cinema_room_manager/Cinema\ Room\ Manager/task/src/cinema
    ```
 
 3. ```bash
-   javac cinema/Cinema.java
+   javac Cinema.java CinemaHall.java
    ```
 
 4. ```bash
-   java cinema.Cinema
+   java Cinema.java
    ```
 
-## Usage 
+## Usage
 
 After running the program, you will be prompted to enter the number of rows and seats per row for the cinema:
 
