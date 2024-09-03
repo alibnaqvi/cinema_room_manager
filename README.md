@@ -108,4 +108,5 @@ Total income: $270
 
 ## Contact
 
-If you spot anything wrong with the program or would like to suggest impor
+If you spot anything wrong with the program or would like to suggest improvements, feel free to email me at ali.b.naqvi@berkeley.edu. Thanks!
+ 
